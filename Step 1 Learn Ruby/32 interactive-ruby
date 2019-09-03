@@ -1,0 +1,9 @@
+$ pry                            jr_dev_daily_reports/Step 1 Learn Ruby master
+[1] pry(main)> def sayhi
+[1] pry(main)*   puts "hello"
+[1] pry(main)* end
+=> :sayhi
+[2] pry(main)> sayhi
+hello
+=> nil
+[3] pry(main)>
